@@ -6,7 +6,9 @@
 
 ## 🎬 Dashboard Demo
 
-> *Add your GIF or video here after recording — see setup guide*
+![Dashboard Demo](assets/dashboard_demo.gif)
+
+> *Job Title slicer filters all KPIs, charts, and salary data in real time.*
 
 ---
 
