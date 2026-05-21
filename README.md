@@ -3,6 +3,13 @@
 > **Power BI · Power Query · DAX · Star Schema · Geospatial Analysis · 2024 Job Postings**
 
 ---
+## 🌐 Live Interactive Dashboard
+
+[![View in Power BI](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZmIzNDM3MTQtY2I4ZC00NDliLWE3OTgtMzllMGIxNjU3NGFkIiwidCI6ImU5ODI3YzRkLWU5NDEtNDM1OC05ZmY1LTZhNDI1YTBmZDQzMiJ9)
+
+> Click above to explore the fully interactive dashboard on Power BI 
+> Service — filter by job title, drill through to role-specific salary 
+> and location data. No download required.
 
 ## 🎬 Dashboard Demo
 
